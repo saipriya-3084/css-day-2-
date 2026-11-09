@@ -1,0 +1,39 @@
+*{
+    background-color: pink;
+    color: aliceblue;
+}
+/* id selector */
+#para{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+/* element selector */
+pre{
+    background-color: blue;
+    color:white
+}
+/* group selector */
+h3,h4,h5,h6{
+    background-color: lavenderblush;
+    color:lawngreen
+}
+/* class-class selector */
+.heading.big{
+    background-color:red ;
+    color:beige
+}
+/* class-id selector */
+.heading#head1{
+    background-color:deeppink;
+    color:deepskyblue
+}
+/* element-id selector */
+iframe#vid{
+    background-color: cyan;
+    color:lavender
+}
+/* element-class selector */
+img.picture{
+    background-color: brown;
+    color:black
+}
